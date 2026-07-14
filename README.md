@@ -23,6 +23,18 @@ AgriCampo es un sistema web desarrollado con Laravel para apoyar la gestión de 
 
 ## Trabajo colaborativo
 
+## Instalación local
+
+1. Clonar el repositorio.
+2. Ejecutar `composer install`.
+3. Crear el archivo `.env`.
+4. Configurar la conexión a MySQL.
+5. Ejecutar `php artisan key:generate`.
+6. Ejecutar `php artisan migrate`.
+7. Ejecutar `npm install`.
+8. Iniciar Laravel con `php artisan serve`.
+9. Iniciar Vite con `npm run dev`.
+
 El desarrollo se organiza mediante ramas individuales, commits descriptivos, issues y pull requests en GitHub.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
