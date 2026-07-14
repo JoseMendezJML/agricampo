@@ -35,6 +35,13 @@ AgriCampo es un sistema web desarrollado con Laravel para apoyar la gestión de 
 8. Iniciar Laravel con `php artisan serve`.
 9. Iniciar Vite con `npm run dev`.
 
+## Integrantes del equipo
+
+- José Méndez Lara
+- Integrante 2
+- Integrante 3
+- Integrante 4
+
 El desarrollo se organiza mediante ramas individuales, commits descriptivos, issues y pull requests en GitHub.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
