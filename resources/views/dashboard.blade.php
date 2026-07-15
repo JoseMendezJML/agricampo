@@ -269,7 +269,7 @@ class="btn btn-warning rounded-pill">
 
 
 <h4>
-📊 Resumen del sistema
+📊 Resumen del sistema de AgriCampo
 </h4>
 
 
